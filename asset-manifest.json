@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-scraping/static/css/main.f23f4432.css",
+    "main.js": "/github-scraping/static/js/main.3734273a.js",
+    "index.html": "/github-scraping/index.html",
+    "main.f23f4432.css.map": "/github-scraping/static/css/main.f23f4432.css.map",
+    "main.3734273a.js.map": "/github-scraping/static/js/main.3734273a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f23f4432.css",
+    "static/js/main.3734273a.js"
+  ]
+}
