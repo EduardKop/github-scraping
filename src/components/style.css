@@ -13,6 +13,9 @@ body{
   align-content: center;
   align-items: center;
 }
+.owner{
+  margin-bottom: 10px;
+}
 .card-container{
 
 }
@@ -23,6 +26,7 @@ body{
 }
 .card-wrapper{
   margin-left: 10px;
+  margin-bottom: 10px;
 }
 .card-name a{
   text-decoration: none;

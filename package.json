@@ -1,7 +1,7 @@
 {
   "name": "git-hub-app",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://eduardkop.github.io/github-scraping/",
   "private": true,
   "dependencies": {
     "@octokit/core": "^3.6.0",
@@ -24,7 +24,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
