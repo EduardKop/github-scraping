@@ -126,7 +126,8 @@ function SearchBody () {
             </div>
             {loading === "false" ? (
         <div className="hello-page">
-            <span> Введіть назву </span>
+            <span> Let's start searching ⏳
+ </span>
         </div>
     ) : loading === "null" ? (
         <div className="notFound">
